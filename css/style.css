@@ -1,0 +1,20 @@
+
+.navbar {
+    background-color: rgba(5, 139, 0, 0.219);
+}
+.quem-somos {
+    background-color: rgb(161, 161, 161);
+    color:white
+}
+.margin {
+    padding-top: 15px;
+    padding-bottom: 50px;
+}
+.parceiros {
+    background-color: cadetblue;
+    color: white;
+}
+.bg-footer {
+    background-color: black;
+    color: white;
+}
